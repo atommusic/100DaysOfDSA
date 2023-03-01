@@ -19,7 +19,7 @@
     <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
   </tr>
   <tr>
-    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Name Here</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Problem%20Name_LeetCode">Click Here</a></td>
+    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Sort an Array</td>   <td><a href="https://github.com/atommusic/100DaysOfDSA/blob/main/Day%201/Sort%20An%20Array_Leetcode/sort_array_leetcode.txt">Click Here</a></td>
   </tr> 
   
 </table> 
@@ -30,7 +30,7 @@
     <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
   </tr>
   <tr>
-    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Name Here</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Problem%20Name_LeetCode">Click Here</a></td>
+    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Update Queries</td>   <td><a href="https://github.com/atommusic/100DaysOfDSA/blob/main/Day%201/Update%20Queries_GFG/Update_Queries_GFG.txt">Click Here</a></td>
   </tr> 
 </table> 
 
